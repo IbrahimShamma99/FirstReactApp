@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "name": "Kyrie",
+    "email": "Kyrie@test.com",
+    "phone": "123412345",
+    "city": "Brooklyn",
+    "state": "Brooklyn",
+    "country": "USA",
+    "organization": "Company 3",
+    "jobProfile": "Software Developer",
+    "additionalInfo": "MOOD SWING"
+}
