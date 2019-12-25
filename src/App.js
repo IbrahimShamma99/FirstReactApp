@@ -9,8 +9,8 @@ class App extends Component {
       <Router basename={process.env.PUBLIC_URL}>
         <Container />
     </Router>
-    );
-  }
-}
+    )
+  };
+};
 
 export default App;
