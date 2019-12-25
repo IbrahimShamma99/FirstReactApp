@@ -1,9 +1,8 @@
 import React, {Component} from 'react';
 import Panel from 'react-bootstrap/lib/Panel'
-import Button from 'react-bootstrap/lib/Button'
 import CustomerDetails from './CustomerDetails'
 import axios from 'axios'
-
+import Button from '@material-ui/core/Button';
 export default class Customers extends Component {
 
   constructor(props) {
@@ -39,7 +38,7 @@ export default class Customers extends Component {
             <Panel.Body>
               <p>{customer.email}</p>
               <p>{customer.phone}</p>
-              <Button bsStyle="info" onClick={() => this.setState({selectedCustomer: customer.id})}>
+              <Button variant="contained" color="primary" href="#contained-buttons" onClick={() => this.setState({selectedCustomer: customer.id})}>
 
                 Click to View Details
 
