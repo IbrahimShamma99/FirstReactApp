@@ -1,0 +1,12 @@
+{
+    "id": 4,
+    "name": "LBJ",
+    "email": "LebronJames@test.com",
+    "phone": "9516478236",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "USA",
+    "organization": "Company 4",
+    "jobProfile": "Software Archeict",
+    "additionalInfo": "Misses clutch free throws"
+}

@@ -1,16 +1,23 @@
 [{
-    "id": 1,
-    "name": "Ibrahim Abu-Shamma",
-    "email": "i.abushammah@gmail.com",
-    "phone": "+962799547633"
-}, {
-    "id": 2,
-    "name": "ABCD",
-    "email": "abcd@test.com",
-    "phone": "987654321"
-}, {
-    "id": 3,
-    "name": "Kyrie",
-    "email": "Kyrie@test.com",
-    "phone": "123412345"
-}]
+        "id": 1,
+        "name": "Ibrahim Abu-Shamma",
+        "email": "i.abushammah@gmail.com",
+        "phone": "+962799547633"
+    }, {
+        "id": 2,
+        "name": "ABCD",
+        "email": "abcd@test.com",
+        "phone": "987654321"
+    }, {
+        "id": 3,
+        "name": "Kyrie",
+        "email": "Kyrie@test.com",
+        "phone": "123412345"
+    }, {
+        "id": 4,
+        "name": "LBJ",
+        "email": "LebronJames@test.com",
+        "phone": "9516478236"
+    }
+
+]
